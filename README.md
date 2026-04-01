@@ -134,4 +134,5 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **Munkasir Haque**
+**Md. Munkasir Haque**  
+Aspiring Cybersecurity Enthusiast | Python Developer
